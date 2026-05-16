@@ -1,0 +1,41 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "terminal.integrated.fontFamily": "'Cascadia Mono', monospace",
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.fontFamily": "'Cascadia Mono', monospace",
+    "editor.fontVariations": false,
+    "editor.fontSize": 18,
+    "editor.fontWeight": "400",
+    "editor.lineHeight": 1.4,
+    "editor.letterSpacing": 0,
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "lövelauncher.saveAllOnLaunch": true,
+    "lövelauncher.useConsoleSubsystem": true,
+    "launch": {
+        "configurations": []
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "lövelauncher.maxInstances"
+    ],
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "vscode-pets.petColor": "green",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.throwBallWithMouse": true,
+    "explorer.confirmDelete": false,
+    "editor.formatOnPaste": true,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.autoClosingDelete": "always",
+    "rust-analyzer.workspace.discoverConfig": null,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "workbench.colorTheme": "Solarized Light"
+}
