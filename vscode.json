@@ -18,25 +18,8 @@
     "explorer.confirmDragAndDrop": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.productIconTheme": "jetbrains-product-icon-theme",
-    "rust-analyzer.workspace.discoverConfig": null,
     "background.enabled": true,
     "workbench.colorTheme": "FullstacksJS (Legacy)",
-    "background.editor": {
-        "useFront": true,
-        "style": {
-            "background-position": "100% 100%",
-            "background-size": "auto",
-            "opacity": 0.6
-        }
-    },
-    "background.fullscreen": {
-        "images": [
-            "file:///home/yasir/Pictures/693912.png"
-        ],
-        "opacity": 0.7,
-        "size": "cover",
-        "position": "center"
-    },
     "workbench.browser.showInTitleBar": true,
     "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
