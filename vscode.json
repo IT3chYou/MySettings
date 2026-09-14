@@ -1,41 +1,45 @@
 {
-    "python.analysis.typeCheckingMode": "standard",
-    "terminal.integrated.fontFamily": "'Cascadia Mono', monospace",
-    "editor.allowVariableFontsInAccessibilityMode": true,
-    "editor.fontFamily": "'Cascadia Mono', monospace",
-    "editor.fontVariations": false,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.fontFamily": "'JetBrains Mono'",
     "editor.fontSize": 18,
-    "editor.fontWeight": "400",
-    "editor.lineHeight": 1.4,
-    "editor.letterSpacing": 0,
+    "editor.fontWeight": "500",
     "editor.fontLigatures": true,
+    "editor.lineHeight": 1.5,
+    "editor.letterSpacing": 0,
+    "terminal.integrated.fontFamily": "'JetBrains Mono'",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "expand",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
-    "lövelauncher.saveAllOnLaunch": true,
-    "lövelauncher.useConsoleSubsystem": true,
-    "launch": {
-        "configurations": []
-    },
-    "workbench.settings.applyToAllProfiles": [
-        "lövelauncher.maxInstances"
-    ],
-    "workbench.activityBar.location": "top",
     "editor.minimap.enabled": false,
-    "window.menuBarVisibility": "compact",
-    "workbench.statusBar.visible": false,
-    "workbench.sideBar.location": "right",
-    "vscode-pets.petColor": "green",
-    "vscode-pets.theme": "forest",
-    "vscode-pets.throwBallWithMouse": true,
-    "explorer.confirmDelete": false,
     "editor.formatOnPaste": true,
-    "editor.semanticHighlighting.enabled": true,
-    "editor.autoClosingDelete": "always",
-    "rust-analyzer.workspace.discoverConfig": null,
-    "editor.inlineSuggest.suppressSuggestions": true,
-    "terminal.integrated.suggest.suggestOnTriggerCharacters": true,
     "editor.inlayHints.enabled": "offUnlessPressed",
-    "workbench.colorTheme": "Solarized Light"
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "jetbrains-product-icon-theme",
+    "rust-analyzer.workspace.discoverConfig": null,
+    "background.enabled": true,
+    "workbench.colorTheme": "FullstacksJS (Legacy)",
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "background-position": "100% 100%",
+            "background-size": "auto",
+            "opacity": 0.6
+        }
+    },
+    "background.fullscreen": {
+        "images": [
+            "file:///home/yasir/Pictures/693912.png"
+        ],
+        "opacity": 0.7,
+        "size": "cover",
+        "position": "center"
+    },
+    "workbench.browser.showInTitleBar": true,
+    "workbench.sideBar.location": "right",
+    "breadcrumbs.enabled": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "material-icon-theme.files.color": "#fdd835"
 }
